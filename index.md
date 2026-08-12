@@ -40,7 +40,8 @@ Complete these **before** starting the main playlist. Pick Tamil or English per 
 | Language | Resource |
 |---|---|
 | 🇬🇧 English | [Spring Data JPA Tutorial – Crash Course (2025)](https://www.youtube.com/watch?v=dKK2dZVLFug) |
-| 🇮🇳 Tamil | Covered inside the Spring Boot Tamil course above ([database/JPA section](https://www.youtube.com/playlist?list=PLHyEAfc_mrxaXqKlCA2WiBK_99sVcmBvc)) |
+| 🇮🇳 Tamil |[HIBERNATE TUTORIAL TAMIL](https://www.youtube.com/playlist?list=PLHyEAfc_mrxaXqKlCA2WiBK_99sVcmBvc) |
+| 🇮🇳 Tamil | [Hibernate vs JPA Explained with Real-World Examples  code logic - Tamil](https://www.youtube.com/watch?v=MbDSkqWxT9U) |
 
 ### 2.3 React Basics
 | Language | Resource |
@@ -52,7 +53,7 @@ Complete these **before** starting the main playlist. Pick Tamil or English per 
 | Language | Resource |
 |---|---|
 | 🇬🇧 English | [Spring Boot React JWT Authentication Example — Java Guides](https://www.javaguides.net/2024/05/spring-boot-react-jwt-authentication.html) |
-| 🇮🇳 Tamil | No dedicated video — by this stage the English write-up + code will be easy to follow |
+| 🇮🇳 Tamil | [JWT Explained in Tamil ](https://www.youtube.com/watch?v=AVTyu_mIehQ) |
 
 **Prerequisite Timeline:** ~5-6 days (Spring Boot + REST: 2-3 days, JPA: 1 day, React: 2 days). Authentication is deferred to Phase 3 below.
 

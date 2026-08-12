@@ -40,7 +40,7 @@ Complete these **before** starting the main playlist. Pick Tamil or English per 
 | Language | Resource |
 |---|---|
 | 🇬🇧 English | [Spring Data JPA Tutorial – Crash Course (2025)](https://www.youtube.com/watch?v=dKK2dZVLFug) |
-| 🇮🇳 Tamil | Covered inside the Spring Boot Tamil course above (database/JPA section) |
+| 🇮🇳 Tamil | Covered inside the Spring Boot Tamil course above ([database/JPA section](https://www.youtube.com/playlist?list=PLHyEAfc_mrxaXqKlCA2WiBK_99sVcmBvc)) |
 
 ### 2.3 React Basics
 | Language | Resource |

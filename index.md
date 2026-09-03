@@ -40,22 +40,27 @@ Complete these **before** starting the main playlist. Pick Tamil or English per 
 | Language | Resource |
 |---|---|
 | 🇬🇧 English | [Spring Data JPA Tutorial – Crash Course (2025)](https://www.youtube.com/watch?v=dKK2dZVLFug) |
-| 🇮🇳 Tamil |[HIBERNATE TUTORIAL TAMIL](https://www.youtube.com/playlist?list=PLHyEAfc_mrxaXqKlCA2WiBK_99sVcmBvc) |
-| 🇮🇳 Tamil | [Hibernate vs JPA Explained with Real-World Examples  code logic - Tamil](https://www.youtube.com/watch?v=MbDSkqWxT9U) |
+| 🇮🇳 Tamil | Covered inside the Spring Boot Tamil course above (database/JPA section) |
 
-### 2.3 React Basics
+### 2.3 JavaScript Basics (do this BEFORE React — variables, functions, arrays, ES6, array methods)
+| Language | Resource |
+|---|---|
+| 🇬🇧 English | [JavaScript Crash Course For Beginners — Traversy Media](https://www.youtube.com/watch?v=hdI2bqOjy3c) |
+| 🇮🇳 Tamil | [JavaScript for Beginners in Tamil — 10 Hours Full Course (code io Tamil)](https://www.youtube.com/watch?v=nCTh4OWjdMs) |
+
+### 2.4 React Basics
 | Language | Resource |
 |---|---|
 | 🇬🇧 English | [React Crash Course 2024 — Traversy Media](https://www.youtube.com/watch?v=LDB4uaJ87e0) |
 | 🇮🇳 Tamil | [React JS Tutorial for Beginners in Tamil 2024 — Full Course](https://www.youtube.com/watch?v=Uv7cKlZFXU8) |
 
-### 2.4 Authentication (JWT + Spring Security) — do this LAST, closer to the login/approval module
+### 2.5 Authentication (JWT + Spring Security) — do this LAST, closer to the login/approval module
 | Language | Resource |
 |---|---|
 | 🇬🇧 English | [Spring Boot React JWT Authentication Example — Java Guides](https://www.javaguides.net/2024/05/spring-boot-react-jwt-authentication.html) |
-| 🇮🇳 Tamil | [JWT Explained in Tamil ](https://www.youtube.com/watch?v=AVTyu_mIehQ) |
+| 🇮🇳 Tamil | No dedicated video — by this stage the English write-up + code will be easy to follow |
 
-**Prerequisite Timeline:** ~5-6 days (Spring Boot + REST: 2-3 days, JPA: 1 day, React: 2 days). Authentication is deferred to Phase 3 below.
+**Prerequisite Timeline:** ~7-8 days (Spring Boot + REST: 2-3 days, JPA: 1 day, JavaScript basics: 2 days, React: 2 days). Authentication is deferred to Phase 3 below.
 
 ---
 

@@ -25,6 +25,24 @@
 **Goal:** Build this as a CRUD-based learning project first (Employee Management → adapted into Student/Pass entities), then layer on role-based approval logic and authentication.
 
 ---
+1. Java
+2. HTML & CSS
+d
+3. JavaScript
+4. MySQL
+5. Spring Boot + REST API
+6. JPA / Hibernate
+7. Java Guides CRUD Playlist - Backend (A → B → C)
+8. Convert Employee CRUD → Student CRUD
+9. Pass Entity + Student-Pass Relationship
+10. Pass Approval Workflow + REST APIs
+11. React.js
+12. React + Axios → Spring Boot Integration
+13. Bootstrap
+14. Spring Security + JWT
+15. Role-based Access - Student / Warden
+16. Final Testing + GitHub + Deployment
+
 
 ## 2. Pre-Project Resources (Prerequisites)
 
